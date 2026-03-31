@@ -1,0 +1,12 @@
+timestamp,prediction,probability,applicant_income,loan_amount,credit_score,employment_status,loan_purpose
+2026-03-31T00:40:24,Rejected,1.0,100000,4000000,670,Business,Business
+2026-03-31T00:44:08,Approved,1.0,500000,4000000,689,Business,Business
+2026-03-31T00:44:20,Rejected,0.0,50000,4000000,689,Business,Business
+2026-03-31T00:44:44,Rejected,0.0,1000000,7000000,689,Business,Business
+2026-03-31T00:45:02,Rejected,0.0,1000000,7000000,689,Business,Business
+2026-03-31T00:49:28,Rejected,0.0,1000000,7000000,689,Business,Business
+2026-03-31T00:49:40,Rejected,0.0,1000000,7000000,689,Business,Business
+2026-03-31T00:49:52,Rejected,0.0,1000000,7000000,719,Business,Business
+2026-03-31T00:50:09,Approved,1.0,1000000,1000000,719,Business,Business
+2026-03-31T00:54:20,Approved,1.0,1000000,3000000,700,Business,Business
+2026-03-31T00:54:45,Approved,1.0,1000000,3000000,700,Business,Business
